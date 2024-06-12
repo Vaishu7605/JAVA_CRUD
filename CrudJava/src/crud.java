@@ -84,7 +84,7 @@ public class crud {
 //		Statement st = conn.createStatement();
 //	    st.executeUpdate(deleteQuery);
 //	    System.out.println("Data deleted Successfully ");
-	    
+//	    
 	    
 	}
 
